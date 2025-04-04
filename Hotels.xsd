@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <!-- We must create an element called Hotels. Then, Hotels consist of the hotel element.
+  The hotel element is comprised of 3 different elements (Name, Phone, Address), as well as 1 attribute (Rating), which is optional)
+  Then, the address element is made up of 5 different elements (Number, Street, City, State, and Zip), and 1 attribute (NearestAirport), which is REQUIRED.
+  We then implement all of these in the code below.-->
   
   <xs:element name="Hotels">
     <xs:complexType>
