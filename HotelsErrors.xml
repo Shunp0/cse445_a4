@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel Rating="4.3">
+    <Name>Arizona Grand Resort &amp; Spa</Name>
+    <Phone>602-438-9000</Phone>
+    <Phone>877-800-4888</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>8000</Number>
+      <Street>S Arizona Grand Pkwy</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Harrah's Ak-Chin Hotel And Casino</Name>
+    <Phone>480-802-5000</Phone>
+    <Address>
+      <Number>15406</Number>
+      <Street>N Maricopa Rd</Street>
+      <City>Maricopa</City>
+      <State>AZ</State>
+      <Zip>85139</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Hilton Phoenix Chandler</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2929</Number>
+      <Street>W Frye Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85224</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Crowne Plaza Resort Phoenix - Chandler Golf Resort by IHG</Name>
+    <Phone>480-812-0900</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>1</Number>
+      <Street>San Marcos Pl</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85225</Zip>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>SpringHill Suites Tempe at Arizona Mills Mall</Name>
+    <Name>SpringHill Suites Arizona Mills</Name>
+    <Phone>480-752-7979</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1701</Number>
+      <Street>W Baseline Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Legacy Golf Resort</Name>
+    <Phone>602-305-5500</Phone>
+    <Phone>888-828-4781</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>6808</Number>
+      <Street>S 32nd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85042</Zip>
+    </Address>
+  </Hotel>
+  
+</Hotel>
