@@ -27,7 +27,6 @@
     </Address>
   </Hotel>
   
-  <!-- Hotel 2 -->
   <Hotel Rating="3.9">
     <Name>Harrah's Ak-Chin Hotel And Casino</Name>
     <Phone>480-802-5000</Phone>
@@ -40,7 +39,6 @@
     </Address>
   </Hotel>
   
-  <!-- Hotel 3 -->
   <Hotel>
     <Name>Hilton Phoenix Chandler</Name>
     <Phone>480-899-7400</Phone>
@@ -53,8 +51,7 @@
       <Zip>85224</Zip>
     </Address>
   </Hotel>
-  
-  <!-- Hotel 4 -->
+
   <Hotel Rating="4.0">
     <Name>Crowne Plaza Resort Phoenix - Chandler Golf Resort by IHG</Name>
     <Phone>480-812-0900</Phone>
@@ -67,7 +64,6 @@
     </Address>
   </Hotel>
   
-  <!-- Hotel 5 -->
   <Hotel Rating="4.1">
     <Name>SpringHill Suites Tempe at Arizona Mills Mall</Name>
     <Phone>480-752-7979</Phone>
@@ -80,7 +76,6 @@
     </Address>
   </Hotel>
   
-  <!-- Hotel 6 -->
   <Hotel>
     <Name>Legacy Golf Resort</Name>
     <Phone>602-305-5500</Phone>
@@ -94,7 +89,6 @@
     </Address>
   </Hotel>
   
-  <!-- Hotel 7 -->
   <Hotel Rating="4.2">
     <Name>Best Western Plus Chandler Hotel &amp; Suites</Name>
     <Phone>480-814-8017</Phone>
@@ -107,7 +101,6 @@
     </Address>
   </Hotel>
   
-  <!-- Hotel 8 -->
   <Hotel Rating="3.7">
     <Name>Comfort Inn Chandler - Phoenix South I-10</Name>
     <Phone>480-893-3900</Phone>
@@ -120,7 +113,6 @@
     </Address>
   </Hotel>
   
-  <!-- Hotel 9 -->
   <Hotel>
     <Name>Element Chandler Fashion Center</Name>
     <Phone>480-553-7277</Phone>
@@ -133,7 +125,6 @@
     </Address>
   </Hotel>
   
-  <!-- Hotel 10 -->
   <Hotel Rating="4.4">
     <Name>Sedona Suite- Arizona Grand Resort</Name>
     <Phone>602-438-9000</Phone>
