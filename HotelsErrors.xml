@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
-
+<!-- The first error is we named the root element Hotel. The second error is that we have a missing Nearest Airport for the second hotel.
+The third error is that the phone element is missing for Hilton Phoenix Chandler. The fourth error is that the address for the Crowne Plaza has no closing tag. Finally, the last error is that SpringHill Suites has two names. -->
   <Hotel Rating="4.3">
     <Name>Arizona Grand Resort &amp; Spa</Name>
     <Phone>602-438-9000</Phone>
